@@ -1,0 +1,32 @@
+C:\Coding\Projects\AdventOfCode\Solutions\Day11SeatingSystem\obj\Debug\netcoreapp3.1\Day11SeatingSystem.AssemblyInfoInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day11SeatingSystem\obj\Debug\netcoreapp3.1\Day11SeatingSystem.AssemblyInfo.cs
+C:\Coding\Projects\AdventOfCode\Solutions\Day11SeatingSystem\obj\Debug\netcoreapp3.1\Day11SeatingSystem.csproj.CoreCompileInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day11SeatingSystem\bin\Debug\netcoreapp3.1\Day11SeatingSystem.exe
+C:\Coding\Projects\AdventOfCode\Solutions\Day11SeatingSystem\bin\Debug\netcoreapp3.1\Day11SeatingSystem.deps.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day11SeatingSystem\bin\Debug\netcoreapp3.1\Day11SeatingSystem.runtimeconfig.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day11SeatingSystem\bin\Debug\netcoreapp3.1\Day11SeatingSystem.runtimeconfig.dev.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day11SeatingSystem\bin\Debug\netcoreapp3.1\Day11SeatingSystem.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day11SeatingSystem\bin\Debug\netcoreapp3.1\Day11SeatingSystem.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day11SeatingSystem\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day11SeatingSystem\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day11SeatingSystem\obj\Debug\netcoreapp3.1\Day11SeatingSystem.csproj.CopyComplete
+C:\Coding\Projects\AdventOfCode\Solutions\Day11SeatingSystem\obj\Debug\netcoreapp3.1\Day11SeatingSystem.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day11SeatingSystem\obj\Debug\netcoreapp3.1\Day11SeatingSystem.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day11SeatingSystem\obj\Debug\netcoreapp3.1\Day11SeatingSystem.genruntimeconfig.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day11SeatingSystem\obj\Debug\netcoreapp3.1\Day11SeatingSystem.csprojAssemblyReference.cache
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day11SeatingSystem\bin\Debug\netcoreapp3.1\Day11SeatingSystem.exe
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day11SeatingSystem\bin\Debug\netcoreapp3.1\Day11SeatingSystem.deps.json
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day11SeatingSystem\bin\Debug\netcoreapp3.1\Day11SeatingSystem.runtimeconfig.json
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day11SeatingSystem\bin\Debug\netcoreapp3.1\Day11SeatingSystem.runtimeconfig.dev.json
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day11SeatingSystem\bin\Debug\netcoreapp3.1\Day11SeatingSystem.dll
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day11SeatingSystem\bin\Debug\netcoreapp3.1\Day11SeatingSystem.pdb
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day11SeatingSystem\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.dll
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day11SeatingSystem\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.pdb
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day11SeatingSystem\obj\Debug\netcoreapp3.1\Day11SeatingSystem.csprojAssemblyReference.cache
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day11SeatingSystem\obj\Debug\netcoreapp3.1\Day11SeatingSystem.AssemblyInfoInputs.cache
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day11SeatingSystem\obj\Debug\netcoreapp3.1\Day11SeatingSystem.AssemblyInfo.cs
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day11SeatingSystem\obj\Debug\netcoreapp3.1\Day11SeatingSystem.csproj.CoreCompileInputs.cache
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day11SeatingSystem\obj\Debug\netcoreapp3.1\Day11SeatingSystem.csproj.CopyComplete
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day11SeatingSystem\obj\Debug\netcoreapp3.1\Day11SeatingSystem.dll
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day11SeatingSystem\obj\Debug\netcoreapp3.1\Day11SeatingSystem.pdb
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day11SeatingSystem\obj\Debug\netcoreapp3.1\Day11SeatingSystem.genruntimeconfig.cache

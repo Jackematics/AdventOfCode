@@ -1,0 +1,22 @@
+C:\Coding\Projects\AdventOfCode\Solutions\Day14DockingData\bin\Debug\netcoreapp3.1\Day14DockingData.exe
+C:\Coding\Projects\AdventOfCode\Solutions\Day14DockingData\bin\Debug\netcoreapp3.1\Day14DockingData.deps.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day14DockingData\bin\Debug\netcoreapp3.1\Day14DockingData.runtimeconfig.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day14DockingData\bin\Debug\netcoreapp3.1\Day14DockingData.runtimeconfig.dev.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day14DockingData\bin\Debug\netcoreapp3.1\Day14DockingData.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day14DockingData\bin\Debug\netcoreapp3.1\Day14DockingData.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day14DockingData\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day14DockingData\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day14DockingData\obj\Debug\netcoreapp3.1\Day14DockingData.AssemblyInfoInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day14DockingData\obj\Debug\netcoreapp3.1\Day14DockingData.AssemblyInfo.cs
+C:\Coding\Projects\AdventOfCode\Solutions\Day14DockingData\obj\Debug\netcoreapp3.1\Day14DockingData.csproj.CoreCompileInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day14DockingData\obj\Debug\netcoreapp3.1\Day14DockingData.csproj.CopyComplete
+C:\Coding\Projects\AdventOfCode\Solutions\Day14DockingData\obj\Debug\netcoreapp3.1\Day14DockingData.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day14DockingData\obj\Debug\netcoreapp3.1\Day14DockingData.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day14DockingData\obj\Debug\netcoreapp3.1\Day14DockingData.genruntimeconfig.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day14DockingData\obj\Debug\netcoreapp3.1\Day14DockingData.csprojAssemblyReference.cache
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day14DockingData\obj\Debug\netcoreapp3.1\Day14DockingData.csprojAssemblyReference.cache
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day14DockingData\obj\Debug\netcoreapp3.1\Day14DockingData.AssemblyInfoInputs.cache
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day14DockingData\obj\Debug\netcoreapp3.1\Day14DockingData.AssemblyInfo.cs
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day14DockingData\obj\Debug\netcoreapp3.1\Day14DockingData.csproj.CoreCompileInputs.cache
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day14DockingData\obj\Debug\netcoreapp3.1\Day14DockingData.dll
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day14DockingData\obj\Debug\netcoreapp3.1\Day14DockingData.pdb

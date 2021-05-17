@@ -1,0 +1,16 @@
+C:\Coding\Projects\AdventOfCode\Solutions\Day9EncodingError\bin\Debug\netcoreapp3.1\Day9EncodingError.exe
+C:\Coding\Projects\AdventOfCode\Solutions\Day9EncodingError\bin\Debug\netcoreapp3.1\Day9EncodingError.deps.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day9EncodingError\bin\Debug\netcoreapp3.1\Day9EncodingError.runtimeconfig.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day9EncodingError\bin\Debug\netcoreapp3.1\Day9EncodingError.runtimeconfig.dev.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day9EncodingError\bin\Debug\netcoreapp3.1\Day9EncodingError.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day9EncodingError\bin\Debug\netcoreapp3.1\Day9EncodingError.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day9EncodingError\obj\Debug\netcoreapp3.1\Day9EncodingError.AssemblyInfoInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day9EncodingError\obj\Debug\netcoreapp3.1\Day9EncodingError.AssemblyInfo.cs
+C:\Coding\Projects\AdventOfCode\Solutions\Day9EncodingError\obj\Debug\netcoreapp3.1\Day9EncodingError.csproj.CoreCompileInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day9EncodingError\obj\Debug\netcoreapp3.1\Day9EncodingError.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day9EncodingError\obj\Debug\netcoreapp3.1\Day9EncodingError.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day9EncodingError\obj\Debug\netcoreapp3.1\Day9EncodingError.genruntimeconfig.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day9EncodingError\obj\Debug\netcoreapp3.1\Day9EncodingError.csprojAssemblyReference.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day9EncodingError\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day9EncodingError\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day9EncodingError\obj\Debug\netcoreapp3.1\Day9EncodingError.csproj.CopyComplete

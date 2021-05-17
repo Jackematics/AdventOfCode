@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9CjYaptCcskPMo2dEt0vdoiE45LxSvrcti/hYeJ6V1SQUX5MV4AagEqr+oMEy8/BKXmqIZIbnvANT1EXO7tKsg==",
+  "success": true,
+  "projectFilePath": "C:\\Coding\\Projects\\AdventOfCode\\2020 (C#)\\Solutions\\PuzzleInputRetriever\\PuzzleInputRetriever.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jackr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jackr\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

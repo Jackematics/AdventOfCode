@@ -1,0 +1,16 @@
+C:\Coding\Projects\AdventOfCode\Solutions\Day6CustomCustoms\bin\Debug\netcoreapp3.1\Day6CustomCustoms.exe
+C:\Coding\Projects\AdventOfCode\Solutions\Day6CustomCustoms\bin\Debug\netcoreapp3.1\Day6CustomCustoms.deps.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day6CustomCustoms\bin\Debug\netcoreapp3.1\Day6CustomCustoms.runtimeconfig.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day6CustomCustoms\bin\Debug\netcoreapp3.1\Day6CustomCustoms.runtimeconfig.dev.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day6CustomCustoms\bin\Debug\netcoreapp3.1\Day6CustomCustoms.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day6CustomCustoms\bin\Debug\netcoreapp3.1\Day6CustomCustoms.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day6CustomCustoms\obj\Debug\netcoreapp3.1\Day6CustomCustoms.csprojAssemblyReference.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day6CustomCustoms\obj\Debug\netcoreapp3.1\Day6CustomCustoms.AssemblyInfoInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day6CustomCustoms\obj\Debug\netcoreapp3.1\Day6CustomCustoms.AssemblyInfo.cs
+C:\Coding\Projects\AdventOfCode\Solutions\Day6CustomCustoms\obj\Debug\netcoreapp3.1\Day6CustomCustoms.csproj.CoreCompileInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day6CustomCustoms\obj\Debug\netcoreapp3.1\Day6CustomCustoms.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day6CustomCustoms\obj\Debug\netcoreapp3.1\Day6CustomCustoms.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day6CustomCustoms\obj\Debug\netcoreapp3.1\Day6CustomCustoms.genruntimeconfig.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day6CustomCustoms\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day6CustomCustoms\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day6CustomCustoms\obj\Debug\netcoreapp3.1\Day6CustomCustoms.csproj.CopyComplete

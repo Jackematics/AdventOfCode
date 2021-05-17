@@ -1,0 +1,48 @@
+C:\Coding\Projects\AdventOfCode\Solutions\Day3TobogganTrajectory\bin\Debug\netcoreapp3.1\Day03TobogganTrajectory.exe
+C:\Coding\Projects\AdventOfCode\Solutions\Day3TobogganTrajectory\bin\Debug\netcoreapp3.1\Day03TobogganTrajectory.deps.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day3TobogganTrajectory\bin\Debug\netcoreapp3.1\Day03TobogganTrajectory.runtimeconfig.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day3TobogganTrajectory\bin\Debug\netcoreapp3.1\Day03TobogganTrajectory.runtimeconfig.dev.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day3TobogganTrajectory\bin\Debug\netcoreapp3.1\Day03TobogganTrajectory.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day3TobogganTrajectory\bin\Debug\netcoreapp3.1\Day03TobogganTrajectory.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day3TobogganTrajectory\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day3TobogganTrajectory\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day3TobogganTrajectory\obj\Debug\netcoreapp3.1\Day03TobogganTrajectory.csprojAssemblyReference.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day3TobogganTrajectory\obj\Debug\netcoreapp3.1\Day03TobogganTrajectory.AssemblyInfoInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day3TobogganTrajectory\obj\Debug\netcoreapp3.1\Day03TobogganTrajectory.AssemblyInfo.cs
+C:\Coding\Projects\AdventOfCode\Solutions\Day3TobogganTrajectory\obj\Debug\netcoreapp3.1\Day03TobogganTrajectory.csproj.CoreCompileInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day3TobogganTrajectory\obj\Debug\netcoreapp3.1\Day03TobogganTrajectory.csproj.CopyComplete
+C:\Coding\Projects\AdventOfCode\Solutions\Day3TobogganTrajectory\obj\Debug\netcoreapp3.1\Day03TobogganTrajectory.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day3TobogganTrajectory\obj\Debug\netcoreapp3.1\Day03TobogganTrajectory.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day3TobogganTrajectory\obj\Debug\netcoreapp3.1\Day03TobogganTrajectory.genruntimeconfig.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day03TobogganTrajectory\bin\Debug\netcoreapp3.1\Day03TobogganTrajectory.exe
+C:\Coding\Projects\AdventOfCode\Solutions\Day03TobogganTrajectory\bin\Debug\netcoreapp3.1\Day03TobogganTrajectory.deps.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day03TobogganTrajectory\bin\Debug\netcoreapp3.1\Day03TobogganTrajectory.runtimeconfig.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day03TobogganTrajectory\bin\Debug\netcoreapp3.1\Day03TobogganTrajectory.runtimeconfig.dev.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day03TobogganTrajectory\bin\Debug\netcoreapp3.1\Day03TobogganTrajectory.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day03TobogganTrajectory\bin\Debug\netcoreapp3.1\Day03TobogganTrajectory.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day03TobogganTrajectory\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day03TobogganTrajectory\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day03TobogganTrajectory\obj\Debug\netcoreapp3.1\Day03TobogganTrajectory.csprojAssemblyReference.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day03TobogganTrajectory\obj\Debug\netcoreapp3.1\Day03TobogganTrajectory.AssemblyInfoInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day03TobogganTrajectory\obj\Debug\netcoreapp3.1\Day03TobogganTrajectory.AssemblyInfo.cs
+C:\Coding\Projects\AdventOfCode\Solutions\Day03TobogganTrajectory\obj\Debug\netcoreapp3.1\Day03TobogganTrajectory.csproj.CoreCompileInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day03TobogganTrajectory\obj\Debug\netcoreapp3.1\Day03TobogganTrajectory.csproj.CopyComplete
+C:\Coding\Projects\AdventOfCode\Solutions\Day03TobogganTrajectory\obj\Debug\netcoreapp3.1\Day03TobogganTrajectory.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day03TobogganTrajectory\obj\Debug\netcoreapp3.1\Day03TobogganTrajectory.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day03TobogganTrajectory\obj\Debug\netcoreapp3.1\Day03TobogganTrajectory.genruntimeconfig.cache
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day03TobogganTrajectory\bin\Debug\netcoreapp3.1\Day03TobogganTrajectory.exe
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day03TobogganTrajectory\bin\Debug\netcoreapp3.1\Day03TobogganTrajectory.deps.json
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day03TobogganTrajectory\bin\Debug\netcoreapp3.1\Day03TobogganTrajectory.runtimeconfig.json
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day03TobogganTrajectory\bin\Debug\netcoreapp3.1\Day03TobogganTrajectory.runtimeconfig.dev.json
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day03TobogganTrajectory\bin\Debug\netcoreapp3.1\Day03TobogganTrajectory.dll
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day03TobogganTrajectory\bin\Debug\netcoreapp3.1\Day03TobogganTrajectory.pdb
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day03TobogganTrajectory\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.dll
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day03TobogganTrajectory\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.pdb
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day03TobogganTrajectory\obj\Debug\netcoreapp3.1\Day03TobogganTrajectory.csprojAssemblyReference.cache
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day03TobogganTrajectory\obj\Debug\netcoreapp3.1\Day03TobogganTrajectory.AssemblyInfoInputs.cache
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day03TobogganTrajectory\obj\Debug\netcoreapp3.1\Day03TobogganTrajectory.AssemblyInfo.cs
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day03TobogganTrajectory\obj\Debug\netcoreapp3.1\Day03TobogganTrajectory.csproj.CoreCompileInputs.cache
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day03TobogganTrajectory\obj\Debug\netcoreapp3.1\Day03TobogganTrajectory.csproj.CopyComplete
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day03TobogganTrajectory\obj\Debug\netcoreapp3.1\Day03TobogganTrajectory.dll
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day03TobogganTrajectory\obj\Debug\netcoreapp3.1\Day03TobogganTrajectory.pdb
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day03TobogganTrajectory\obj\Debug\netcoreapp3.1\Day03TobogganTrajectory.genruntimeconfig.cache

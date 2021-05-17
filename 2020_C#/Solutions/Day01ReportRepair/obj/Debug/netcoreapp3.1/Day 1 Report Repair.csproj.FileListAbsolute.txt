@@ -1,0 +1,13 @@
+C:\Coding\Projects\AdventOfCode\Solutions\Day 1 Report Repair\bin\Debug\netcoreapp3.1\Day 1 Report Repair.exe
+C:\Coding\Projects\AdventOfCode\Solutions\Day 1 Report Repair\bin\Debug\netcoreapp3.1\Day 1 Report Repair.deps.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day 1 Report Repair\bin\Debug\netcoreapp3.1\Day 1 Report Repair.runtimeconfig.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day 1 Report Repair\bin\Debug\netcoreapp3.1\Day 1 Report Repair.runtimeconfig.dev.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day 1 Report Repair\bin\Debug\netcoreapp3.1\Day 1 Report Repair.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day 1 Report Repair\bin\Debug\netcoreapp3.1\Day 1 Report Repair.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day 1 Report Repair\obj\Debug\netcoreapp3.1\Day 1 Report Repair.csprojAssemblyReference.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day 1 Report Repair\obj\Debug\netcoreapp3.1\Day 1 Report Repair.AssemblyInfoInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day 1 Report Repair\obj\Debug\netcoreapp3.1\Day 1 Report Repair.AssemblyInfo.cs
+C:\Coding\Projects\AdventOfCode\Solutions\Day 1 Report Repair\obj\Debug\netcoreapp3.1\Day 1 Report Repair.csproj.CoreCompileInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day 1 Report Repair\obj\Debug\netcoreapp3.1\Day 1 Report Repair.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day 1 Report Repair\obj\Debug\netcoreapp3.1\Day 1 Report Repair.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day 1 Report Repair\obj\Debug\netcoreapp3.1\Day 1 Report Repair.genruntimeconfig.cache

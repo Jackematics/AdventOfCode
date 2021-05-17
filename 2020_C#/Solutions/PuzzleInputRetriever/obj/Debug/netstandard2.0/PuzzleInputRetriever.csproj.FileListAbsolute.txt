@@ -1,0 +1,18 @@
+C:\Coding\Projects\AdventOfCode\Solutions\PuzzleInputRetriever\bin\Debug\netstandard2.0\PuzzleInputRetriever.deps.json
+C:\Coding\Projects\AdventOfCode\Solutions\PuzzleInputRetriever\bin\Debug\netstandard2.0\PuzzleInputRetriever.dll
+C:\Coding\Projects\AdventOfCode\Solutions\PuzzleInputRetriever\bin\Debug\netstandard2.0\PuzzleInputRetriever.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\PuzzleInputRetriever\obj\Debug\netstandard2.0\PuzzleInputRetriever.csprojAssemblyReference.cache
+C:\Coding\Projects\AdventOfCode\Solutions\PuzzleInputRetriever\obj\Debug\netstandard2.0\PuzzleInputRetriever.AssemblyInfoInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\PuzzleInputRetriever\obj\Debug\netstandard2.0\PuzzleInputRetriever.AssemblyInfo.cs
+C:\Coding\Projects\AdventOfCode\Solutions\PuzzleInputRetriever\obj\Debug\netstandard2.0\PuzzleInputRetriever.csproj.CoreCompileInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\PuzzleInputRetriever\obj\Debug\netstandard2.0\PuzzleInputRetriever.dll
+C:\Coding\Projects\AdventOfCode\Solutions\PuzzleInputRetriever\obj\Debug\netstandard2.0\PuzzleInputRetriever.pdb
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\PuzzleInputRetriever\bin\Debug\netstandard2.0\PuzzleInputRetriever.deps.json
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\PuzzleInputRetriever\bin\Debug\netstandard2.0\PuzzleInputRetriever.dll
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\PuzzleInputRetriever\bin\Debug\netstandard2.0\PuzzleInputRetriever.pdb
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\PuzzleInputRetriever\obj\Debug\netstandard2.0\PuzzleInputRetriever.csprojAssemblyReference.cache
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\PuzzleInputRetriever\obj\Debug\netstandard2.0\PuzzleInputRetriever.AssemblyInfoInputs.cache
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\PuzzleInputRetriever\obj\Debug\netstandard2.0\PuzzleInputRetriever.AssemblyInfo.cs
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\PuzzleInputRetriever\obj\Debug\netstandard2.0\PuzzleInputRetriever.csproj.CoreCompileInputs.cache
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\PuzzleInputRetriever\obj\Debug\netstandard2.0\PuzzleInputRetriever.dll
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\PuzzleInputRetriever\obj\Debug\netstandard2.0\PuzzleInputRetriever.pdb

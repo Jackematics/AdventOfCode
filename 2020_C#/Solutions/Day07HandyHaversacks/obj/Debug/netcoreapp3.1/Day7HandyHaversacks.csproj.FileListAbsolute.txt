@@ -1,0 +1,16 @@
+C:\Coding\Projects\AdventOfCode\Solutions\Day7HandyHaversacks\bin\Debug\netcoreapp3.1\Day7HandyHaversacks.exe
+C:\Coding\Projects\AdventOfCode\Solutions\Day7HandyHaversacks\bin\Debug\netcoreapp3.1\Day7HandyHaversacks.deps.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day7HandyHaversacks\bin\Debug\netcoreapp3.1\Day7HandyHaversacks.runtimeconfig.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day7HandyHaversacks\bin\Debug\netcoreapp3.1\Day7HandyHaversacks.runtimeconfig.dev.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day7HandyHaversacks\bin\Debug\netcoreapp3.1\Day7HandyHaversacks.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day7HandyHaversacks\bin\Debug\netcoreapp3.1\Day7HandyHaversacks.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day7HandyHaversacks\obj\Debug\netcoreapp3.1\Day7HandyHaversacks.AssemblyInfoInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day7HandyHaversacks\obj\Debug\netcoreapp3.1\Day7HandyHaversacks.AssemblyInfo.cs
+C:\Coding\Projects\AdventOfCode\Solutions\Day7HandyHaversacks\obj\Debug\netcoreapp3.1\Day7HandyHaversacks.csproj.CoreCompileInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day7HandyHaversacks\obj\Debug\netcoreapp3.1\Day7HandyHaversacks.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day7HandyHaversacks\obj\Debug\netcoreapp3.1\Day7HandyHaversacks.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day7HandyHaversacks\obj\Debug\netcoreapp3.1\Day7HandyHaversacks.genruntimeconfig.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day7HandyHaversacks\obj\Debug\netcoreapp3.1\Day7HandyHaversacks.csprojAssemblyReference.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day7HandyHaversacks\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day7HandyHaversacks\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day7HandyHaversacks\obj\Debug\netcoreapp3.1\Day7HandyHaversacks.csproj.CopyComplete

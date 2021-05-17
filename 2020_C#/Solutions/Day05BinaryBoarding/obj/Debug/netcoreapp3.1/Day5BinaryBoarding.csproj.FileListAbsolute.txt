@@ -1,0 +1,16 @@
+C:\Coding\Projects\AdventOfCode\Solutions\Day5BinaryBoarding\bin\Debug\netcoreapp3.1\Day5BinaryBoarding.exe
+C:\Coding\Projects\AdventOfCode\Solutions\Day5BinaryBoarding\bin\Debug\netcoreapp3.1\Day5BinaryBoarding.deps.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day5BinaryBoarding\bin\Debug\netcoreapp3.1\Day5BinaryBoarding.runtimeconfig.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day5BinaryBoarding\bin\Debug\netcoreapp3.1\Day5BinaryBoarding.runtimeconfig.dev.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day5BinaryBoarding\bin\Debug\netcoreapp3.1\Day5BinaryBoarding.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day5BinaryBoarding\bin\Debug\netcoreapp3.1\Day5BinaryBoarding.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day5BinaryBoarding\obj\Debug\netcoreapp3.1\Day5BinaryBoarding.csprojAssemblyReference.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day5BinaryBoarding\obj\Debug\netcoreapp3.1\Day5BinaryBoarding.AssemblyInfoInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day5BinaryBoarding\obj\Debug\netcoreapp3.1\Day5BinaryBoarding.AssemblyInfo.cs
+C:\Coding\Projects\AdventOfCode\Solutions\Day5BinaryBoarding\obj\Debug\netcoreapp3.1\Day5BinaryBoarding.csproj.CoreCompileInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day5BinaryBoarding\obj\Debug\netcoreapp3.1\Day5BinaryBoarding.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day5BinaryBoarding\obj\Debug\netcoreapp3.1\Day5BinaryBoarding.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day5BinaryBoarding\obj\Debug\netcoreapp3.1\Day5BinaryBoarding.genruntimeconfig.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day5BinaryBoarding\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day5BinaryBoarding\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day5BinaryBoarding\obj\Debug\netcoreapp3.1\Day5BinaryBoarding.csproj.CopyComplete

@@ -1,0 +1,32 @@
+C:\Coding\Projects\AdventOfCode\Solutions\Day12RainRisk\obj\Debug\netcoreapp3.1\Day12RainRisk.csprojAssemblyReference.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day12RainRisk\obj\Debug\netcoreapp3.1\Day12RainRisk.AssemblyInfoInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day12RainRisk\obj\Debug\netcoreapp3.1\Day12RainRisk.AssemblyInfo.cs
+C:\Coding\Projects\AdventOfCode\Solutions\Day12RainRisk\obj\Debug\netcoreapp3.1\Day12RainRisk.csproj.CoreCompileInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day12RainRisk\bin\Debug\netcoreapp3.1\Day12RainRisk.exe
+C:\Coding\Projects\AdventOfCode\Solutions\Day12RainRisk\bin\Debug\netcoreapp3.1\Day12RainRisk.deps.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day12RainRisk\bin\Debug\netcoreapp3.1\Day12RainRisk.runtimeconfig.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day12RainRisk\bin\Debug\netcoreapp3.1\Day12RainRisk.runtimeconfig.dev.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day12RainRisk\bin\Debug\netcoreapp3.1\Day12RainRisk.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day12RainRisk\bin\Debug\netcoreapp3.1\Day12RainRisk.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day12RainRisk\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day12RainRisk\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day12RainRisk\obj\Debug\netcoreapp3.1\Day12RainRisk.csproj.CopyComplete
+C:\Coding\Projects\AdventOfCode\Solutions\Day12RainRisk\obj\Debug\netcoreapp3.1\Day12RainRisk.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day12RainRisk\obj\Debug\netcoreapp3.1\Day12RainRisk.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day12RainRisk\obj\Debug\netcoreapp3.1\Day12RainRisk.genruntimeconfig.cache
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day12RainRisk\bin\Debug\netcoreapp3.1\Day12RainRisk.exe
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day12RainRisk\bin\Debug\netcoreapp3.1\Day12RainRisk.deps.json
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day12RainRisk\bin\Debug\netcoreapp3.1\Day12RainRisk.runtimeconfig.json
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day12RainRisk\bin\Debug\netcoreapp3.1\Day12RainRisk.runtimeconfig.dev.json
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day12RainRisk\bin\Debug\netcoreapp3.1\Day12RainRisk.dll
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day12RainRisk\bin\Debug\netcoreapp3.1\Day12RainRisk.pdb
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day12RainRisk\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.dll
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day12RainRisk\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.pdb
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day12RainRisk\obj\Debug\netcoreapp3.1\Day12RainRisk.csprojAssemblyReference.cache
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day12RainRisk\obj\Debug\netcoreapp3.1\Day12RainRisk.AssemblyInfoInputs.cache
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day12RainRisk\obj\Debug\netcoreapp3.1\Day12RainRisk.AssemblyInfo.cs
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day12RainRisk\obj\Debug\netcoreapp3.1\Day12RainRisk.csproj.CoreCompileInputs.cache
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day12RainRisk\obj\Debug\netcoreapp3.1\Day12RainRisk.csproj.CopyComplete
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day12RainRisk\obj\Debug\netcoreapp3.1\Day12RainRisk.dll
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day12RainRisk\obj\Debug\netcoreapp3.1\Day12RainRisk.pdb
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day12RainRisk\obj\Debug\netcoreapp3.1\Day12RainRisk.genruntimeconfig.cache

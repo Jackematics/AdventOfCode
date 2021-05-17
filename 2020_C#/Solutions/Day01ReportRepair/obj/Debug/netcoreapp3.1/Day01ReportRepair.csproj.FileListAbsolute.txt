@@ -1,0 +1,48 @@
+C:\Coding\Projects\AdventOfCode\Solutions\Day1ReportRepair\bin\Debug\netcoreapp3.1\Day01ReportRepair.exe
+C:\Coding\Projects\AdventOfCode\Solutions\Day1ReportRepair\bin\Debug\netcoreapp3.1\Day01ReportRepair.deps.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day1ReportRepair\bin\Debug\netcoreapp3.1\Day01ReportRepair.runtimeconfig.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day1ReportRepair\bin\Debug\netcoreapp3.1\Day01ReportRepair.runtimeconfig.dev.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day1ReportRepair\bin\Debug\netcoreapp3.1\Day01ReportRepair.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day1ReportRepair\bin\Debug\netcoreapp3.1\Day01ReportRepair.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day1ReportRepair\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day1ReportRepair\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day1ReportRepair\obj\Debug\netcoreapp3.1\Day01ReportRepair.csprojAssemblyReference.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day1ReportRepair\obj\Debug\netcoreapp3.1\Day01ReportRepair.AssemblyInfoInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day1ReportRepair\obj\Debug\netcoreapp3.1\Day01ReportRepair.AssemblyInfo.cs
+C:\Coding\Projects\AdventOfCode\Solutions\Day1ReportRepair\obj\Debug\netcoreapp3.1\Day01ReportRepair.csproj.CoreCompileInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day1ReportRepair\obj\Debug\netcoreapp3.1\Day01ReportRepair.csproj.CopyComplete
+C:\Coding\Projects\AdventOfCode\Solutions\Day1ReportRepair\obj\Debug\netcoreapp3.1\Day01ReportRepair.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day1ReportRepair\obj\Debug\netcoreapp3.1\Day01ReportRepair.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day1ReportRepair\obj\Debug\netcoreapp3.1\Day01ReportRepair.genruntimeconfig.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day01ReportRepair\bin\Debug\netcoreapp3.1\Day01ReportRepair.exe
+C:\Coding\Projects\AdventOfCode\Solutions\Day01ReportRepair\bin\Debug\netcoreapp3.1\Day01ReportRepair.deps.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day01ReportRepair\bin\Debug\netcoreapp3.1\Day01ReportRepair.runtimeconfig.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day01ReportRepair\bin\Debug\netcoreapp3.1\Day01ReportRepair.runtimeconfig.dev.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day01ReportRepair\bin\Debug\netcoreapp3.1\Day01ReportRepair.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day01ReportRepair\bin\Debug\netcoreapp3.1\Day01ReportRepair.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day01ReportRepair\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day01ReportRepair\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day01ReportRepair\obj\Debug\netcoreapp3.1\Day01ReportRepair.csprojAssemblyReference.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day01ReportRepair\obj\Debug\netcoreapp3.1\Day01ReportRepair.AssemblyInfoInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day01ReportRepair\obj\Debug\netcoreapp3.1\Day01ReportRepair.AssemblyInfo.cs
+C:\Coding\Projects\AdventOfCode\Solutions\Day01ReportRepair\obj\Debug\netcoreapp3.1\Day01ReportRepair.csproj.CoreCompileInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day01ReportRepair\obj\Debug\netcoreapp3.1\Day01ReportRepair.csproj.CopyComplete
+C:\Coding\Projects\AdventOfCode\Solutions\Day01ReportRepair\obj\Debug\netcoreapp3.1\Day01ReportRepair.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day01ReportRepair\obj\Debug\netcoreapp3.1\Day01ReportRepair.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day01ReportRepair\obj\Debug\netcoreapp3.1\Day01ReportRepair.genruntimeconfig.cache
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day01ReportRepair\bin\Debug\netcoreapp3.1\Day01ReportRepair.exe
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day01ReportRepair\bin\Debug\netcoreapp3.1\Day01ReportRepair.deps.json
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day01ReportRepair\bin\Debug\netcoreapp3.1\Day01ReportRepair.runtimeconfig.json
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day01ReportRepair\bin\Debug\netcoreapp3.1\Day01ReportRepair.runtimeconfig.dev.json
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day01ReportRepair\bin\Debug\netcoreapp3.1\Day01ReportRepair.dll
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day01ReportRepair\bin\Debug\netcoreapp3.1\Day01ReportRepair.pdb
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day01ReportRepair\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.dll
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day01ReportRepair\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.pdb
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day01ReportRepair\obj\Debug\netcoreapp3.1\Day01ReportRepair.csprojAssemblyReference.cache
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day01ReportRepair\obj\Debug\netcoreapp3.1\Day01ReportRepair.AssemblyInfoInputs.cache
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day01ReportRepair\obj\Debug\netcoreapp3.1\Day01ReportRepair.AssemblyInfo.cs
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day01ReportRepair\obj\Debug\netcoreapp3.1\Day01ReportRepair.csproj.CoreCompileInputs.cache
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day01ReportRepair\obj\Debug\netcoreapp3.1\Day01ReportRepair.csproj.CopyComplete
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day01ReportRepair\obj\Debug\netcoreapp3.1\Day01ReportRepair.dll
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day01ReportRepair\obj\Debug\netcoreapp3.1\Day01ReportRepair.pdb
+C:\Coding\Projects\AdventOfCode\2020 (C#)\Solutions\Day01ReportRepair\obj\Debug\netcoreapp3.1\Day01ReportRepair.genruntimeconfig.cache

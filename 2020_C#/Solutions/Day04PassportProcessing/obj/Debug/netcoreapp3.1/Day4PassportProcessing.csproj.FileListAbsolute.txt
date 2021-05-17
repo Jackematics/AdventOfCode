@@ -1,0 +1,28 @@
+C:\Coding\Projects\AdventOfCode\Solutions\Day 4 Passport Processing\bin\Debug\netcoreapp3.1\Day4PassportProcessing.exe
+C:\Coding\Projects\AdventOfCode\Solutions\Day 4 Passport Processing\bin\Debug\netcoreapp3.1\Day4PassportProcessing.deps.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day 4 Passport Processing\bin\Debug\netcoreapp3.1\Day4PassportProcessing.runtimeconfig.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day 4 Passport Processing\bin\Debug\netcoreapp3.1\Day4PassportProcessing.runtimeconfig.dev.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day 4 Passport Processing\bin\Debug\netcoreapp3.1\Day4PassportProcessing.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day 4 Passport Processing\bin\Debug\netcoreapp3.1\Day4PassportProcessing.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day 4 Passport Processing\obj\Debug\netcoreapp3.1\Day4PassportProcessing.AssemblyInfoInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day 4 Passport Processing\obj\Debug\netcoreapp3.1\Day4PassportProcessing.AssemblyInfo.cs
+C:\Coding\Projects\AdventOfCode\Solutions\Day 4 Passport Processing\obj\Debug\netcoreapp3.1\Day4PassportProcessing.csproj.CoreCompileInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day 4 Passport Processing\obj\Debug\netcoreapp3.1\Day4PassportProcessing.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day 4 Passport Processing\obj\Debug\netcoreapp3.1\Day4PassportProcessing.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day 4 Passport Processing\obj\Debug\netcoreapp3.1\Day4PassportProcessing.genruntimeconfig.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day4PassportProcessing\bin\Debug\netcoreapp3.1\Day4PassportProcessing.exe
+C:\Coding\Projects\AdventOfCode\Solutions\Day4PassportProcessing\bin\Debug\netcoreapp3.1\Day4PassportProcessing.deps.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day4PassportProcessing\bin\Debug\netcoreapp3.1\Day4PassportProcessing.runtimeconfig.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day4PassportProcessing\bin\Debug\netcoreapp3.1\Day4PassportProcessing.runtimeconfig.dev.json
+C:\Coding\Projects\AdventOfCode\Solutions\Day4PassportProcessing\bin\Debug\netcoreapp3.1\Day4PassportProcessing.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day4PassportProcessing\bin\Debug\netcoreapp3.1\Day4PassportProcessing.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day4PassportProcessing\obj\Debug\netcoreapp3.1\Day4PassportProcessing.csprojAssemblyReference.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day4PassportProcessing\obj\Debug\netcoreapp3.1\Day4PassportProcessing.AssemblyInfoInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day4PassportProcessing\obj\Debug\netcoreapp3.1\Day4PassportProcessing.AssemblyInfo.cs
+C:\Coding\Projects\AdventOfCode\Solutions\Day4PassportProcessing\obj\Debug\netcoreapp3.1\Day4PassportProcessing.csproj.CoreCompileInputs.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day4PassportProcessing\obj\Debug\netcoreapp3.1\Day4PassportProcessing.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day4PassportProcessing\obj\Debug\netcoreapp3.1\Day4PassportProcessing.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day4PassportProcessing\obj\Debug\netcoreapp3.1\Day4PassportProcessing.genruntimeconfig.cache
+C:\Coding\Projects\AdventOfCode\Solutions\Day4PassportProcessing\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.dll
+C:\Coding\Projects\AdventOfCode\Solutions\Day4PassportProcessing\bin\Debug\netcoreapp3.1\PuzzleInputRetriever.pdb
+C:\Coding\Projects\AdventOfCode\Solutions\Day4PassportProcessing\obj\Debug\netcoreapp3.1\Day4PassportProcessing.csproj.CopyComplete
