@@ -5,3 +5,7 @@ use ./input_reader
 use ./day01
 
 use ./day02
+
+use ./day03
+
+use ./day04

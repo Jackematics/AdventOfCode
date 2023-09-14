@@ -144,3 +144,4 @@ dist
 # End of https://www.toptal.com/developers/gitignore/api/node
 
 *.DS_STORE
+2015-go/.vscode/launch.json
