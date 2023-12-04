@@ -23,6 +23,45 @@ func SumScratchardsPoints(raw_cards []string) int {
 	return sum
 }
 
+func FindTotalScratchcards(raw_cards []string) int {
+	copy_counts := map[int]int{
+		1: 1,
+	}
+
+	for i := 1; i <= len(raw_cards); i++ {
+		_, key_exists := copy_counts[i]
+		if !key_exists {
+			copy_counts[i] = 1
+		}
+
+		for copy_number := 0; copy_number < copy_counts[i]; copy_number++ {
+			split_by_colon := strings.Split(raw_cards[i-1], ": ")
+
+			split_drawn_and_winners := strings.Split(split_by_colon[1], " | ")
+
+			numbers_drawn := formatRawNumbers(split_drawn_and_winners[0])
+			winners := formatRawNumbers(split_drawn_and_winners[1])
+			matches := findMatches(numbers_drawn, winners)
+
+			for match_number := 1; match_number <= len(matches); match_number++ {
+				_, key_exists := copy_counts[i+match_number]
+				if !key_exists {
+					copy_counts[i+match_number] = 1
+				}
+
+				copy_counts[i+match_number]++
+			}
+		}
+	}
+
+	sum := 0
+	for _, v := range copy_counts {
+		sum += v
+	}
+
+	return sum
+}
+
 func formatRawNumbers(raw_numbers string) []int {
 	split_by_whitespace := strings.Split(raw_numbers, " ")
 
