@@ -25,12 +25,12 @@ type Hand struct {
 	bid       int
 }
 
-func TotalWinnings(raw_input []string) int {
-	hands := extractHands(raw_input)
+func TotalWinnings(raw_input []string, part string) int {
+	hands := extractHands(raw_input, part)
 
 	sort.Slice(hands, func(i, j int) bool {
 		if hands[i].hand_type == hands[j].hand_type {
-			return handWeaker(hands[i], hands[j])
+			return handWeaker(hands[i], hands[j], part)
 		}
 
 		return hands[i].hand_type < hands[j].hand_type
@@ -44,7 +44,7 @@ func TotalWinnings(raw_input []string) int {
 	return sum
 }
 
-func extractHands(raw_input []string) []Hand {
+func extractHands(raw_input []string, part string) []Hand {
 	hands := []Hand{}
 	for _, raw_hand := range raw_input {
 		split := strings.Split(raw_hand, " ")
@@ -53,15 +53,21 @@ func extractHands(raw_input []string) []Hand {
 		hands = append(hands, Hand{
 			hand:      split[0],
 			bid:       bid,
-			hand_type: determineHandType(split[0]),
+			hand_type: determineHandType(split[0], part),
 		})
 	}
 
 	return hands
 }
 
-func determineHandType(hand string) HandType {
-	frequencies := calculateFrequencies(hand)
+func determineHandType(hand string, part string) HandType {
+	var frequencies []int
+
+	if part == "part_one" {
+		frequencies = calculateFrequenciesPartOne(hand)
+	} else {
+		frequencies = calculateFrequenciesPartTwo(hand)
+	}
 
 	if handHasFrequency(frequencies, 5) {
 		return FiveKind
@@ -105,7 +111,7 @@ func handIsTwoPair(frequencies []int) bool {
 	return two_sum == 2
 }
 
-func calculateFrequencies(hand string) []int {
+func calculateFrequenciesPartOne(hand string) []int {
 	frequencies := []int{}
 
 	forbidden := []rune{}
@@ -128,9 +134,17 @@ func calculateFrequencies(hand string) []int {
 	return frequencies
 }
 
-var cards = []byte{'2', '3', '4', '5', '6', '7', '8', '9', 'T', 'J', 'Q', 'K', 'A'}
+var cardsPartOne = []byte{'2', '3', '4', '5', '6', '7', '8', '9', 'T', 'J', 'Q', 'K', 'A'}
+var cardsPartTwo = []byte{'J', '2', '3', '4', '5', '6', '7', '8', '9', 'T', 'Q', 'K', 'A'}
 
-func handWeaker(hand_a, hand_b Hand) bool {
+func handWeaker(hand_a, hand_b Hand, part string) bool {
+	var cards []byte
+	if part == "part_one" {
+		cards = cardsPartOne
+	} else {
+		cards = cardsPartTwo
+	}
+
 	for i := 0; i < len(hand_a.hand); i++ {
 		a_value := slices.Index(cards, hand_a.hand[i])
 		b_value := slices.Index(cards, hand_b.hand[i])
@@ -143,4 +157,49 @@ func handWeaker(hand_a, hand_b Hand) bool {
 	}
 
 	return true
+}
+
+func calculateFrequenciesPartTwo(hand string) []int {
+	frequencies := []int{}
+
+	forbidden := []rune{'J'}
+	for _, current_card := range hand {
+		if slices.Contains(forbidden, current_card) {
+			continue
+		}
+
+		sum := 0
+		for _, comparison_card := range hand {
+			if current_card == comparison_card {
+				sum++
+			}
+		}
+
+		frequencies = append(frequencies, sum)
+		forbidden = append(forbidden, current_card)
+	}
+
+	println("hand: ", hand)
+	jokerCount := getJokerCount(hand)
+
+	if len(frequencies) == 0 {
+		return []int{5}
+	}
+
+	max := slices.Max(frequencies)
+	max_index := slices.Index(frequencies, max)
+	frequencies[max_index] += jokerCount
+
+	return frequencies
+}
+
+func getJokerCount(hand string) int {
+	joker_count := 0
+	for _, card := range hand {
+		if card == 'J' {
+			joker_count++
+		}
+	}
+
+	return joker_count
 }
