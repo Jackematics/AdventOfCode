@@ -1,8 +1,8 @@
 package main
 
 import (
-	"aoc_2015/day02/cube_conundrum"
-	"aoc_2015/input_reader"
+	"aoc_2023/day02/cube_conundrum"
+	"aoc_2023/input_reader"
 	"fmt"
 )
 

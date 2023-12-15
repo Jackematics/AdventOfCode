@@ -1,8 +1,8 @@
 package main
 
 import (
-	"aoc_2015/day01/trebuchet_calibrator"
-	"aoc_2015/input_reader"
+	"aoc_2023/day01/trebuchet_calibrator"
+	"aoc_2023/input_reader"
 	"fmt"
 )
 

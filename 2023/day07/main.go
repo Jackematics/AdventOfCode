@@ -1,8 +1,8 @@
 package main
 
 import (
-	"aoc_2015/day07/camel_cards"
-	"aoc_2015/input_reader"
+	"aoc_2023/day07/camel_cards"
+	"aoc_2023/input_reader"
 	"fmt"
 )
 

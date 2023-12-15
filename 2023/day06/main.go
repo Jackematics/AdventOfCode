@@ -1,8 +1,8 @@
 package main
 
 import (
-	"aoc_2015/day06/wait_for_it"
-	"aoc_2015/input_reader"
+	"aoc_2023/day06/wait_for_it"
+	"aoc_2023/input_reader"
 	"fmt"
 )
 

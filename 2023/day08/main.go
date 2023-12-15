@@ -1,8 +1,8 @@
 package main
 
 import (
-	"aoc_2015/day08/haunted_wasteland"
-	"aoc_2015/input_reader"
+	"aoc_2023/day08/haunted_wasteland"
+	"aoc_2023/input_reader"
 	"fmt"
 )
 

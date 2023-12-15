@@ -1,8 +1,8 @@
 package main
 
 import (
-	"aoc_2015/day05/seed_mapper"
-	"aoc_2015/input_reader"
+	"aoc_2023/day05/seed_mapper"
+	"aoc_2023/input_reader"
 	"fmt"
 )
 

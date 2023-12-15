@@ -1,4 +1,4 @@
-module aoc_2015/input_reader
+module aoc_2023/input_reader
 
 go 1.21.0
 

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"aoc_2015/day04/scratchcards"
-	"aoc_2015/input_reader"
+	"aoc_2023/day04/scratchcards"
+	"aoc_2023/input_reader"
 	"fmt"
 )
 

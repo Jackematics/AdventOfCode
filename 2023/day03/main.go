@@ -1,8 +1,8 @@
 package main
 
 import (
-	"aoc_2015/day03/gear_ratios"
-	"aoc_2015/input_reader"
+	"aoc_2023/day03/gear_ratios"
+	"aoc_2023/input_reader"
 	"fmt"
 )
 
