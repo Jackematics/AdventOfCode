@@ -36,6 +36,41 @@ func TotalSteps(raw_input []string) int {
 	return steps
 }
 
+func TotalSimultaneousSteps(raw_input []string) int {
+	instructions := raw_input[0]
+	node_mappings := extractNodesMappings(raw_input[2:])
+
+	current_nodes := extractStartingNodes(node_mappings)
+
+	lcdSteps := []int{}
+	for _, node := range current_nodes {
+		steps := 0
+		end_char_not_z := true
+
+		for end_char_not_z {
+			for _, instruction := range instructions {
+				if node[2] == 'Z' {
+					lcdSteps = append(lcdSteps, steps)
+					end_char_not_z = false
+					break
+				}
+
+				if instruction == 'L' {
+					node = node_mappings[node].left
+				}
+
+				if instruction == 'R' {
+					node = node_mappings[node].right
+				}
+
+				steps++
+			}
+		}
+	}
+
+	return LCM(lcdSteps[0], lcdSteps[1], lcdSteps[2:]...)
+}
+
 func extractNodesMappings(raw_input []string) map[string]Node {
 	node_mappings := map[string]Node{}
 
@@ -50,4 +85,45 @@ func extractNodesMappings(raw_input []string) map[string]Node {
 	}
 
 	return node_mappings
+}
+
+func extractStartingNodes(nodes map[string]Node) []string {
+	starting_nodes := []string{}
+	for key := range nodes {
+		if key[2] == 'A' {
+			starting_nodes = append(starting_nodes, key)
+		}
+	}
+
+	return starting_nodes
+}
+
+func nodesEndOnZ(nodes []string) bool {
+	for _, node := range nodes {
+		if node[2] != 'Z' {
+			return false
+		}
+	}
+
+	return true
+}
+
+func GCD(a, b int) int {
+	for b != 0 {
+		t := b
+		b = a % b
+		a = t
+	}
+
+	return a
+}
+
+func LCM(a, b int, integers ...int) int {
+	result := a * b / GCD(a, b)
+
+	for i := 0; i < len(integers); i++ {
+		result = LCM(result, integers[i])
+	}
+
+	return result
 }
