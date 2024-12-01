@@ -17,8 +17,7 @@ func abs(val int) int {
 	}
 }
 
-
-func partOne(input []string) int {
+func separateLists(input []string) ([]int, []int) {
 	listOne := []int{}
 	listTwo := []int{}
 
@@ -31,6 +30,12 @@ func partOne(input []string) int {
 		listTwo = append(listTwo, listTwoItem)
 	}
 
+	return listOne, listTwo
+}
+
+
+func partOne(input []string) int {
+	listOne, listTwo := separateLists(input)
 	
 	sort.Slice(listOne, func(i, j int) bool {
 		return listOne[i] < listOne[j]
@@ -49,17 +54,7 @@ func partOne(input []string) int {
 }
 
 func partTwo(input []string) int {
-	listOne := []int{}
-	listTwo := []int{}
-
-	for _, line := range input {
-		splitList := strings.Split(line, "   ")
-		listOneItem, _ := strconv.Atoi(splitList[0])
-		listTwoItem, _ := strconv.Atoi(splitList[1])
-
-		listOne = append(listOne, listOneItem)
-		listTwo = append(listTwo, listTwoItem)
-	}
+	listOne, listTwo := separateLists(input)
 
 	sum := 0
 	for _, val1 := range listOne {
