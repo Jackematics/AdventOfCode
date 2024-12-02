@@ -2,5 +2,8 @@ go 1.23.3
 
 use ./input_reader
 
+use ./utils
+
 use ./day01
 
+use ./day02
