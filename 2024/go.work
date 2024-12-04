@@ -7,3 +7,4 @@ use ./utils
 use ./day01
 
 use ./day02
+use ./day03
