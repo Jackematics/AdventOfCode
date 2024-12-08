@@ -203,8 +203,6 @@ func main() {
 	fmt.Println("Example Result Part Two: " + strconv.Itoa(examplePartTwo))
 
 	input, _ := input_reader.ReadInput("./input.txt")
-	fmt.Println("row: " +strconv.Itoa(len(input)))
-	fmt.Println("col: " +strconv.Itoa(len(input[0])))
 
 	partOneResult := partOne(append([]string{}, input...))
 	fmt.Println("Part One Result: " + strconv.Itoa(partOneResult))
