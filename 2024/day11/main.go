@@ -4,33 +4,54 @@ import (
 	"aoc_2024/input_reader"
 	"aoc_2024/utils"
 	"fmt"
-	"slices"
 	"strconv"
 	"strings"
 	"sync"
+	"time"
 )
 
-func stoneWorker(blinks int, stones []int, ch chan<- int, wg *sync.WaitGroup) {
+// func stoneWorker(blinks int, stone int, sum int) int {
+// 	if blinks == 0 {
+// 		return sum + 1
+// 	}
+
+// 	stoneStr := strconv.Itoa(stone)
+// 	if stone == 0 {
+// 		return stoneWorker(blinks - 1, 1, sum)
+// 	} else if len(stoneStr) % 2 == 0 {
+// 		leftStr := stoneStr[:(len(stoneStr) / 2)]
+// 		rightStr := stoneStr[(len(stoneStr) / 2):]
+
+// 		sum = stoneWorker(blinks - 1, utils.ToInt(leftStr), sum)
+// 		return stoneWorker(blinks - 1, utils.ToInt(rightStr), sum)
+// 	} else {
+// 		return stoneWorker(blinks - 1, stone * 2024, sum)
+// 	}
+// }
+
+func stoneWorker(blinks int, stone int, ch chan<- int, wg *sync.WaitGroup) {
 	defer wg.Done()
 
-	for blink := 1; blink <= blinks; blink++ {
-		for i := len(stones) - 1; i >= 0; i-- {
-			stoneStr := strconv.Itoa(stones[i])
-			if stones[i] == 0 {
-				stones[i] = 1
-			} else if len(stoneStr) % 2 == 0 {
-				leftStr := stoneStr[:(len(stoneStr) / 2)]
-				rightStr := stoneStr[(len(stoneStr) / 2):]
-
-				stones[i] = utils.ToInt(leftStr)
-				stones = slices.Insert(stones, i + 1, utils.ToInt(rightStr))
-			} else {
-				stones[i] *= 2024
-			}
-		}
+	if blinks == 0 {
+		ch <- 1
+		return
 	}
+	
+	stoneStr := strconv.Itoa(stone)
+	if stone == 0 {
+		wg.Add(1)
+		go stoneWorker(blinks - 1, 1, ch, wg)
+	} else if len(stoneStr) % 2 == 0 {
+		wg.Add(2)
+		leftStr := stoneStr[:(len(stoneStr) / 2)]
+		rightStr := stoneStr[(len(stoneStr) / 2):]
 
-	ch <- len(stones)
+		go stoneWorker(blinks - 1, utils.ToInt(leftStr), ch, wg)
+		go stoneWorker(blinks - 1, utils.ToInt(rightStr), ch, wg)
+	} else {
+		wg.Add(1)
+		go stoneWorker(blinks - 1, stone * 2024, ch, wg)
+	}
 }
 
 func partOne(input string, blinks int) int {
@@ -42,11 +63,33 @@ func partOne(input string, blinks int) int {
 
 	var wg sync.WaitGroup
 
-	ch := make(chan int, len(stones))
+	ch := make(chan int, 100_000)
+
+	go func() {
+		for {
+			time.Sleep(100_000)
+			sum := 0
+		Loop: 
+			for {
+				select {
+				case val := <-ch:
+					sum += val
+				default:
+					break Loop
+				}
+
+			}
+
+			if sum > 0 {
+				ch <- sum
+			}
+		}
+	}()
+
 
 	for _, stone := range stones {
 		wg.Add(1)
-		go stoneWorker(blinks, []int{stone}, ch, &wg)
+		go stoneWorker(blinks, stone, ch, &wg)
 	}
 
 	go func() {

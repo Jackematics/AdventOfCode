@@ -30,3 +30,7 @@ func ToInt(str string) int {
 func MiddleIndex[T any](slice []T) int {
 	return int(math.Floor(float64((len(slice) + 1) / 2))) - 1
 }
+
+func IntPow(x int, y int) int {
+	return int(math.Pow(float64(x), float64(y)))
+}
